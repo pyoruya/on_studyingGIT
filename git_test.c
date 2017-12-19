@@ -17,6 +17,7 @@ double compensation_temperature(uint32_t ad, int temp, uint8_t code)
 	
 	return glc;
 }
+/* Add blabla~!!!! */
 
 
 // what changes~~???
