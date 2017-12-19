@@ -4,7 +4,7 @@
 double compensation_temperature(uint32_t ad, int temp, uint8_t code);
 
 int main(){
-	printf("Heelo World");
+	printf("Hello World");
 	return 1;
 }
 
